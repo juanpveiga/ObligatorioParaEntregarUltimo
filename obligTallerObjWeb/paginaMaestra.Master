@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="paginaMaestra.master.cs" Inherits="obligTallerObjWeb.paginaMaestra" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Menu ID="MenuVisita" runat="server">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/Login.aspx" Text="Login" Value="Login"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/CalendarioDeRodajes.aspx" Text="Calendario de Rodajes" Value="Calendario de Rodajes"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+
+        <asp:Menu ID="MenuAdmin" runat="server">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/CalendarioDeRodajes.aspx" Text="Calendario de Rodajes" Value="Calendario de Rodajes"></asp:MenuItem>
+                <asp:MenuItem Selectable="False" Text="Rodaje" Value="Rodaje">
+                    <asp:MenuItem NavigateUrl="~/AltaRodaje.aspx" Text="Alta Rodaje" Value="Alta Rodaje"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/AgregarEmpleado.aspx" Text="Agregar Empleado" Value="Agregar Empleado"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/FinalizarRodaje.aspx" Text="Finalizar Rodaje" Value="Finalizar Rodaje"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/ListadoRodajesPorCosto.aspx" Text="Listado de Rodaje" Value="Listado de Rodaje"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/listaRodajesMayorA.aspx" Text="Listado de Rodajes Mayor a un Monto" Value="Listado de Rodaje"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="Cerrar Sesion" Value="Cerrar Sesion" NavigateUrl="~/CerrarSesion.aspx"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+
+        <asp:Menu ID="MenuAsistente" runat="server">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/CalendarioDeRodajes.aspx" Text="Calendario de Rodajes" Value="Calendario de Rodajes"></asp:MenuItem>
+                <asp:MenuItem Text="Listado de Rodaje" Value="Listado de Rodaje" NavigateUrl="~/ListadoRodajesPorCosto.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Cerrar Sesion" Value="Cerrar Sesion" NavigateUrl="~/CerrarSesion.aspx"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

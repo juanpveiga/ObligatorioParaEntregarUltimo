@@ -1,0 +1,56 @@
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\ClassLibrary1\bin\Debug\obligTallerObjDominio.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\ClassLibrary1\bin\Debug\obligTallerObjDominio.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\ClassLibrary1\obj\Debug\FachadaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\ClassLibrary1\bin\Debug\obligTallerObjDominio.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\ClassLibrary1\bin\Debug\obligTallerObjDominio.pdb
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\ClassLibrary1\obj\Debug\FachadaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\ClassLibrary1\bin\Debug\obligTallerObjDominio.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\ClassLibrary1\bin\Debug\obligTallerObjDominio.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\ClassLibrary1\obj\Debug\FachadaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\ClassLibrary1\bin\Debug\obligTallerObjDominio.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\ClassLibrary1\bin\Debug\obligTallerObjDominio.pdb
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\ClassLibrary1\obj\Debug\FachadaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Downloads\Envio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Downloads\Envio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Downloads\Envio\ClassLibrary1\bin\Debug\obligTallerObjDominio.dll
+C:\Users\Marcelo\Downloads\Envio\ClassLibrary1\bin\Debug\obligTallerObjDominio.pdb
+C:\Users\Marcelo\Downloads\Envio\ClassLibrary1\obj\Debug\FachadaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Downloads\Envio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Downloads\Envio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\ClassLibrary1\bin\Debug\obligTallerObjDominio.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\ClassLibrary1\bin\Debug\obligTallerObjDominio.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\ClassLibrary1\obj\Debug\FachadaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\ClassLibrary1\obj\Debug\FachadaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\ClassLibrary1\bin\Debug\obligTallerObjDominio.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\ClassLibrary1\bin\Debug\obligTallerObjDominio.pdb
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\ClassLibrary1\bin\Debug\obligTallerObjDominio.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\ClassLibrary1\bin\Debug\obligTallerObjDominio.pdb
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\ClassLibrary1\obj\Debug\FachadaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

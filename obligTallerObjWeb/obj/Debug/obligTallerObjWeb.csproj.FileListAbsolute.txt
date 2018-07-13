@@ -1,0 +1,216 @@
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\csc.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\vbc.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjWeb.dll.config
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjWeb.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjDominio.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjDominio.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\obligTallerObjWeb\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.pdb
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\csc.exe
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\vbc.exe
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjWeb.dll.config
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjWeb.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjWeb.pdb
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\ClassLibrary1.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjDominio.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\ClassLibrary1.pdb
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\obligTallerObjDominio.pdb
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.csprojResolveAssemblyReference.cache
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.dll
+C:\Users\Juan Veiga\Desktop\primer envio\obligTallerObjWebViejoSerializado 1\obligTallerObjWeb\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\csc.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\vbc.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjWeb.dll.config
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjWeb.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjDominio.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjDominio.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\Envio\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.pdb
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\csc.exe
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\vbc.exe
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjWeb.dll.config
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjWeb.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjWeb.pdb
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\ClassLibrary1.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjDominio.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\ClassLibrary1.pdb
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\obligTallerObjDominio.pdb
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.dll
+C:\Users\Manuel\Documents\ORT\Taller de Objetos\Obligatorio Juan\Envio\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\csc.exe
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\vbc.exe
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\obligTallerObjWeb.dll.config
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\obligTallerObjWeb.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\ClassLibrary1.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\obligTallerObjDominio.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\ClassLibrary1.pdb
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\obligTallerObjDominio.pdb
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.dll
+C:\Users\Marcelo\Downloads\Envio\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\csc.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\vbc.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\obligTallerObjWeb.dll.config
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\obligTallerObjWeb.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\obligTallerObjDominio.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\obligTallerObjDominio.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioUltimo\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\csc.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\vbc.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\obligTallerObjWeb.dll.config
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\obligTallerObjWeb.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\obligTallerObjWeb.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\ClassLibrary1.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\obligTallerObjDominio.dll
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\ClassLibrary1.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\obligTallerObjDominio.pdb
+C:\Users\Marcelo\Documents\ORT\TallerObjetos\Obligatorio Juan\ObligatorioParaEntregar\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\csc.exe
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\vbc.exe
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjWeb.dll.config
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjWeb.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjWeb.pdb
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\ClassLibrary1.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjDominio.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\ClassLibrary1.pdb
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjDominio.pdb
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.csprojResolveAssemblyReference.cache
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.dll
+C:\Users\Juan Veiga\Downloads\ObligatorioParaEntregarUltimo 19hs\ObligatorioParaEntregarUltimo\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.pdb
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.csprojResolveAssemblyReference.cache
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\obj\Debug\obligTallerObjWeb.pdb
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\csc.exe
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\vbc.exe
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjWeb.dll.config
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjWeb.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjWeb.pdb
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\ClassLibrary1.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjDominio.dll
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\ClassLibrary1.pdb
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\obligTallerObjDominio.pdb
+C:\Users\Juan Veiga\Desktop\Entrega\Entrega\ObligatorioParaEntregarUltimo\ObligatorioParaEntregarUltimo\obligTallerObjWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
